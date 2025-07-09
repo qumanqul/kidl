@@ -29,7 +29,7 @@ app.listen(PORT, () => {
 });
 
 
-mongoose.connect('mongodb+srv://defople:pyQ2AZUs6lw4BwxC@cluster0.yewm5.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0')
+mongoose.connect('*******************')
     .then(()=> console.log('Connected to Database'))
     .catch((err)=> console.log(`Error:${err}`));
 
