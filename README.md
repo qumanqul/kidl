@@ -27,12 +27,6 @@ The project includes a complete purchasing flow, user authentication, and an adm
 
 ---
 
-## 📸 Screenshots
-
-*(Add here screenshots or GIFs of your app, e.g. Home Page, Cart, Admin Panel)*  
-
----
-
 ## ⚙️ Installation & Setup
 
 ```bash
