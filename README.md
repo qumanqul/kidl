@@ -31,7 +31,7 @@ The project includes a complete purchasing flow, user authentication, and an adm
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/online-store.git
+git clone https://github.com/qumanqul/kidl.git
 
 # Navigate to project folder
 cd online-store
